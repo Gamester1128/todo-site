@@ -18,5 +18,8 @@ function App() {
     )
 }
 // https://developers.google.com/drive/api/quickstart/js
+// https://vercel.com/docs/concepts/deployments/configure-a-build
+// https://vercel.com/docs/frameworks/vite
+// https://vitejs.dev/guide/static-deploy.html
 
 export default App
